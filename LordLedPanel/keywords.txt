@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For LordLedPanel
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LordLedPanel	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getValue	KEYWORD2
+setValue	KEYWORD2
+saveValue	KEYWORD2
+setLord	KEYWORD2
+run	KEYWORD2
+getPwm	KEYWORD2
+getFan	KEYWORD2
+enable	KEYWORD2
+isEnable	KEYWORD2
+getEEPROM	KEYWORD2
+getNextEEPROM	KEYWORD2
+setEEPROM	KEYWORD2
+loadAll	KEYWORD2
+saveAll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LORD_LED_PWM_TIME	LITERAL1
+LORD_LED_TEMP	LITERAL1
+LORD_LED_MARGE	LITERAL1
+LORD_LED_TZ	LITERAL1
+LORD_LED_LAT	LITERAL1
+LORD_LED_LON	LITERAL1
+LORD_LED_ENA	LITERAL1
+LORD_LED_EEPROM_LEN	LITERAL1
+LORD_LED_ON	LITERAL1
+LORD_LED_OFF 	LITERAL1
